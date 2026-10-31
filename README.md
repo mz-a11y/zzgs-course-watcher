@@ -132,6 +132,7 @@ pyinstaller --noconfirm --onefile --windowed --name zzgs-course-watcher zzgs_gui
 
 GPL-3.0，见 `LICENSE`。用 GPL 是为了让任何衍生版本也必须开源——但这不构成对使用方式的额外约束：**登录他人账号在任何情况下都是不被允许的，与许可证无关。**
 ## 赞赏
+如果它帮你省下了时间，可以请我一杯奶茶（完全自愿，不赞赏不影响使用）
 
 <div align="center">
   <img src="images/32fb6adf085febfa3a518aa552461a6f.jpeg" width="220" alt="支付宝">
