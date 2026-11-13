@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 """郑州工商学院（青果 KINGOSOFT 高校教学综合管理服务平台）网上选课助手。
 
-由 D:\\新建文件夹\\mdjnuqk-main（牡丹江师范学院版）迁移而来，接口路径、tableId、
-列名、参数绑定方式全部按本校实机抓取结果重写。加密层沿用原项目的青果专用 DES。
-
 用法（只读，默认安全）：
     python zzgs_grab.py probe                 # 列出全部可选课程及各班余量
     python zzgs_grab.py probe --only 体育      # 只看课程名含“体育”的
